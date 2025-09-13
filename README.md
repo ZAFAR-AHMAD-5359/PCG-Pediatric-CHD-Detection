@@ -1,6 +1,6 @@
 # Pediatric Congenital Heart Disease Detection System 👶❤️
 
-[![Paper](https://img.shields.io/badge/Paper-IEEE%20ICAI%202023-blue)](link-to-paper)
+[![Paper]([https://img.shields.io/badge/Paper-IEEE%20ICAI%202023-blue](https://ieeexplore.ieee.org/abstract/document/10136668))](link-to-paper)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Clinical Impact](https://img.shields.io/badge/Patients%20Screened-2000+-red)](https://shields.io/)
@@ -273,9 +273,9 @@ This system is designed to assist healthcare professionals and should not replac
 ## 📧 Contact
 
 **Zafar Ahmad**
-- Email: zafarahmad5359@gmail.com
+- Email: ahmadzafar577@gmail.com
 - GitHub: [@ZAFAR-AHMAD-5359](https://github.com/ZAFAR-AHMAD-5359)
-- LinkedIn: [Connect](https://linkedin.com/in/your-profile)
+- LinkedIn: [Connect](www.linkedin.com/in/zafar-ahmad-ab87b6183)
 
 ## 🙏 Acknowledgments
 
