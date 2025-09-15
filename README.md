@@ -7,7 +7,7 @@
 
 ## Mission
 
-Automated, non-invasive detection of **Congenital Heart Diseases (CHD)** in pediatric populations using advanced signal processing and machine learning, enabling early intervention and improved patient outcomes.
+Automated, non-invasive detection of **Congenital Heart Diseases (CHD)** in pediatric populations using advanced signal processing and deep learning techniques, enabling early intervention and improved patient outcomes. This research uses the binary classfication and it still in progress to more sohphisticated decision support system. 
 
 ##  Clinical Impact
 
