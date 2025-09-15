@@ -35,6 +35,7 @@ Automated, non-invasive detection of **Congenital Heart Diseases (CHD)** in pedi
 6. **MR** - Mitral Regurgitation
 7. **TOF** - Tetralogy of Fallot
 8. **Normal** - Healthy heart
+Note: In this study we only use binary classification, and now this study has advanced to the next level. 
 
 ## 📦 Installation
 
