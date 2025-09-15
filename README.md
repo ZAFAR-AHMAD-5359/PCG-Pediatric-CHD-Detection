@@ -1,4 +1,4 @@
-# Pediatric Congenital Heart Disease Detection System 👶❤️
+# Pediatric Congenital Heart Disease Detection System 
 
 [![Paper]([https://img.shields.io/badge/Paper-IEEE%20ICAI%202023-blue](https://ieeexplore.ieee.org/abstract/document/10136668))](link-to-paper)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -35,6 +35,7 @@ Automated, non-invasive detection of **Congenital Heart Diseases (CHD)** in pedi
 6. **MR** - Mitral Regurgitation
 7. **TOF** - Tetralogy of Fallot
 8. **Normal** - Healthy heart
+
 Note: In this study we only use binary classification, and now this study has advanced to the next level. 
 
 ## 📦 Installation
