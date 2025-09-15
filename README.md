@@ -143,10 +143,10 @@ result = detector.detect(
 # Standardized collection procedure
 recording_protocol = {
     'positions': ['mitral', 'tricuspid', 'aortic', 'pulmonary'],
-    'duration': 30,  # seconds per position
+    'duration': 6,  # seconds per position
     'sampling_rate': 4000,  # Hz
-    'device': 'Eko DUO',
-    'environment': 'quiet_room'
+    'device': 'uSteh',
+    'environment': 'Hospital Echo Room (RMI, LRH and School screening)'
 }
 ```
 
@@ -154,7 +154,7 @@ recording_protocol = {
 ```
 Raw PCG → Filtering → Segmentation → Feature Extraction → Classification
     ↓          ↓            ↓               ↓                 ↓
-  4000Hz   20-600Hz    5s chunks        MFCC+Stats        8 classes
+  4000Hz   20-500Hz    6s chunks        MFCC+Stats        2 classes
 ```
 
 ### 3. Feature Engineering
