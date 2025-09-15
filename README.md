@@ -5,26 +5,26 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Clinical Impact](https://img.shields.io/badge/Patients%20Screened-2000+-red)](https://shields.io/)
 
-## 🎯 Mission
+## Mission
 
 Automated, non-invasive detection of **Congenital Heart Diseases (CHD)** in pediatric populations using advanced signal processing and machine learning, enabling early intervention and improved patient outcomes.
 
-## 🌟 Clinical Impact
+##  Clinical Impact
 
-- 🏥 **2,000+ Children Screened** across 3 major hospitals
-- ✅ **7 Heart Defects Identified** leading to timely intervention
-- 📊 **85% Multi-class Accuracy** for 8 different cardiac conditions
-- ⏱️ **< 30 seconds** per screening (vs. 15-20 minutes traditional)
-- 💰 **90% Cost Reduction** compared to echocardiography
+-  **2,000+ Children Screened** across 3 major hospitals
+-  **7 Heart Defects Identified** leading to timely intervention
+-  **85% Multi-class Accuracy** for 8 different cardiac conditions
+-  **< 30 seconds** per screening (vs. 15-20 minutes traditional)
+-  **90% Cost Reduction** compared to echocardiography
 
-## 🚀 Features
+##  Features
 
 ### Core Capabilities
-- ✨ **Real-time PCG Analysis** - Process heart sounds instantly
-- 🎯 **Multi-class Classification** - Detect 8 types of CHD
-- 👶 **Pediatric-Optimized** - Specialized for children (0-18 years)
-- 📱 **Mobile-Ready** - Deployable on resource-constrained devices
-- 🔊 **Noise Robust** - Handles clinical environment noise
+-  **Real-time PCG Analysis** - Process heart sounds instantly
+-  **Multi-class Classification** - Detect 8 types of CHD
+-  **Pediatric-Optimized** - Specialized for children (0-18 years)
+-  **Mobile-Ready** - Deployable on resource-constrained devices
+-  **Noise Robust** - Handles clinical environment noise
 
 ### Supported Conditions
 1. **VSD** - Ventricular Septal Defect
@@ -38,7 +38,7 @@ Automated, non-invasive detection of **Congenital Heart Diseases (CHD)** in pedi
 
 Note: In this study we only use binary classification, and now this study has advanced to the next level. 
 
-## 📦 Installation
+## Installation
 
 ### Requirements
 ```bash
@@ -65,7 +65,7 @@ pip install -r requirements.txt
 python demo.py --input sample_data/pcg_sample.wav
 ```
 
-## 💻 Usage
+##  Usage
 
 ### Basic Detection
 ```python
@@ -176,7 +176,7 @@ Dense(32, ReLU) → BatchNorm
 Dense(8, Softmax)
 ```
 
-## 📈 Visualization Tools
+##  Visualization Tools
 
 ### Signal Analysis Dashboard
 ```python
@@ -225,7 +225,7 @@ def detect_chd():
     })
 ```
 
-## 📚 Dataset Information
+##  Dataset Information
 
 ### Collection Sites
 1. **Rehman Medical Institute** - Peshawar
@@ -257,12 +257,12 @@ def detect_chd():
 1. **IEEE ICAI 2023**: "Automatic Detection of Paediatric Congenital Heart Diseases from Phonocardiogram Signals"
 2. **Under Review**: "Multi-center Validation of AI-based CHD Screening in Resource-Limited Settings"
 
-## 🤝 Collaborators
+##  Collaborators
 
 - 🏥 Rehman Medical Institute, Peshawar
 - 🏥 Lady Reading Hospital, Peshawar
-- 🎓 Qatar University
-- 🎓 NUST, Islamabad
+- 🎓 University of Engineering and Technology Peshawar, Pakistan
+  
 
 ## 📄 License
 
