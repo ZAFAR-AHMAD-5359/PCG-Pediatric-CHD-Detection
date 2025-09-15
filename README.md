@@ -13,18 +13,18 @@ Automated, non-invasive detection of **Congenital Heart Diseases (CHD)** in pedi
 
 -  **2,000+ Children Screened** across 3 major hospitals
 -  **7 Heart Defects Identified** leading to timely intervention
--  **85% Multi-class Accuracy** for 8 different cardiac conditions
+-  **98.6% Binnary classifiction Accuracy**  (Normal & Abnormal) for 8 different cardiac conditions
 -  **< 30 seconds** per screening (vs. 15-20 minutes traditional)
--  **90% Cost Reduction** compared to echocardiography
+-  **90% Cost Reduction** compared to echocardiography labled reports
 
 ##  Features
 
 ### Core Capabilities
 -  **Real-time PCG Analysis** - Process heart sounds instantly
--  **Multi-class Classification** - Detect 8 types of CHD
+-  **Multi-class Classification** - Detect only normal and abnormal and abnormal at this point. 
 -  **Pediatric-Optimized** - Specialized for children (0-18 years)
 -  **Mobile-Ready** - Deployable on resource-constrained devices
--  **Noise Robust** - Handles clinical environment noise
+-  **Noise Robust** - Handles clinical environment noise (however, to catter more sophisticated noise nature, future research will provide insight about this, stay tunned!) 
 
 ### Supported Conditions
 1. **VSD** - Ventricular Septal Defect
@@ -159,7 +159,7 @@ Raw PCG → Filtering → Segmentation → Feature Extraction → Classification
 
 ### 3. Feature Engineering
 - **Time Domain**: Energy, ZCR, Envelope statistics
-- **Frequency Domain**: Spectral centroid, Roll-off, Flux
+- **Frequency Domain**: Spectral centroid, Roll-off, spectrograms, Power spectral densities (PSD)
 - **Time-Frequency**: MFCC (13 coefficients), CWT
 - **Statistical**: Mean, Variance, Skewness, Kurtosis
 
