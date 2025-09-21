@@ -255,7 +255,7 @@ def detect_chd():
 ## 📖 Publications
 
 1. **IEEE ICAI 2023**: "Automatic Detection of Paediatric Congenital Heart Diseases from Phonocardiogram Signals"
-2. **Under Review**: "Multi-center Validation of AI-based CHD Screening in Resource-Limited Settings"
+   
 
 ##  Collaborators
 
